@@ -1,0 +1,53 @@
+{
+    "cars": [
+        {
+            "key": "1",
+            "name": "mrz300",
+            "location": "ottawa",
+            "fluidlevels": "2.5",
+            "odometer": "23932",
+            "enginetemperature": "313.3",
+            "tirepressure": "325.2",
+            "speed": "50"
+        },
+        {
+            "key": "4",
+            "name": "mercedes c300",
+            "location": "ottawa",
+            "fluidlevels": "2.5",
+            "odometer": "35932",
+            "enginetemperature": "33.3",
+            "tirepressure": "325.2",
+            "speed": "40"
+        },
+        {
+            "key": "2",
+            "name": "bmw 550",
+            "location": "ottawa",
+            "fluidlevels": "2",
+            "odometer": "332",
+            "enginetemperature": "333.3",
+            "tirepressure": "325.2",
+            "speed": "50"
+        },
+        {
+            "key": "3",
+            "name": "audi a4",
+            "location": "ottawa",
+            "fluidlevels": "12",
+            "odometer": "3312",
+            "enginetemperature": "433.3",
+            "tirepressure": "325.2",
+            "speed": "69"
+        }, {
+            "key": "5",
+            "name": "bmw 428",
+            "location": "ottawa",
+            "fluidlevels": "22.5",
+            "odometer": "33972",
+            "enginetemperature": "213.3",
+            "tirepressure": "425.2",
+            "speed": "29"
+        }
+    ]
+}
